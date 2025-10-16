@@ -10,14 +10,11 @@ As showcased in the video "Looptrack" I found the possibility of forming the wor
 - Airdash
 Building on the racing idea I think it would be great to give the player more movement to open up new creative ways of moving through the loop.
 Now the larva instantly changes movement directions with no delay or change in velocity, even when airborne. To give an interactive movement ability to the larva it should contrast this standard movement in some ways, with its own pros and cons. An airborne sidedash would be a great new tool for the player, giving a slight speedboost and goes into sliding mode opening up the possibility to slide through 1 block openings. To balance this we make the player lock into one direction while airborne and also lose the ability to wall climb while sliding. By adding a speedboost we add a timing and knowledge skill to the game, rewarding players to use this movement in the right conditions. When landing while sliding is the only time the player can change direction during the slide, adding some control to the sliding mechanism. (This makes it possible for the player to move through a 'Z' or '2' formation: jumping to the right, airdashing to the left and slide-landing to the right)
-
-Store multiple blocks and upgraded abilities
+- Store multiple blocks and upgraded abilities
 Adding a storage of, say, 3 blocks and have abilities that can use this as ammo to enhance their effect. 
-
-Pillar-jump
+- Pillar-jump
 Use up to 3 blocks to create a pillar under you that catapults you up into the air
-
-Airdash-Turbo
+- Airdash-Turbo
 Create a platform behind you as you shoot to the side, destroying walls as you hit them
 
 
