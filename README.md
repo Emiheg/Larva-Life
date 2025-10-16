@@ -3,6 +3,7 @@ Solo gamejam : Theme: Tiny world.
 You play as a larva in a tiny world that loops around. You choose the width and height of the world to live in and have the ability to pick up and move blocks to transform the world to your choosing. With the ability to wall climb (and even stick to the roof) you can create a world that best fits the life of a larva. 
 
 Looptrack: https://youtu.be/uHI1ZO9SlZE 
+World generating: https://youtu.be/i1c2k6kTsmM 
 
 #Further development
 1. Loop-racing
@@ -24,3 +25,5 @@ Create a platform behind you as you shoot to the side, destroying walls as you h
 New blocks: slowing, speed, bounce and even-odd time based effects
 Rising water during the loop.
 Moving platforms.
+
+4. Smoother camera
