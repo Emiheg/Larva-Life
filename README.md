@@ -6,8 +6,8 @@ Looptrack: https://youtu.be/uHI1ZO9SlZE
 World generating: https://youtu.be/i1c2k6kTsmM 
 
 #Further development
-1. Loop-racing
-As showcased in the video "Looptrack" I found the possibility of forming the world to quickly and effectively move through the world to be quite entertaining and satisfying. In the video it is showcased how wall and roof climbing opens up unique pathways, and by adding only one single block to it can completely transform how you move through the world. By creating a loop-racing element to the game with a public high-score ladder would give the game a challenge while also motivating and rewarding creative thinking. The player then needs to weigh up just powering through the already set loop, or take some time to transform it and effectivise it (optimally combining these two strategies, forming the loop as you run through it). 
+1. Loop-racing.
+As showcased in the video "Looptrack" I found the possibility of forming the world to quickly and effectively move through it to be quite entertaining and satisfying. In the video it is showcased how wall and roof climbing opens up unique pathways, and by adding only one single block to it can completely transform how you move through the world. By creating a loop-racing element to the game with a public high-score ladder would give the game a challenge while also motivating and rewarding creative thinking. The player then needs to weigh up just powering through the already set loop, or take some time to transform it and effectivise it (optimally combining these two strategies, forming the loop as you run through it). 
 
 2. Add new movement and abilities
 - Airdash
